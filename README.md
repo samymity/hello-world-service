@@ -8,3 +8,4 @@ mkdir src
 npm run dev
 
 hello
+https://humble-eureka-5vrx5wgwj95fv76r-3000.app.github.dev/hello?name=Claude
