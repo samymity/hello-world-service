@@ -6,3 +6,5 @@ npm install express nodemon --save-dev
 mkdir src
 # Copy the app.js code from the first artifact to src/app.js
 npm run dev
+
+hello
